@@ -18,4 +18,4 @@ const setupandstart = () =>{
         }
     })
 }
-setupandstart();
+setupandstart(); 
